@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-24T10:21:20 IST" name="Default suite" finished-at="2024-10-24T10:21:20 IST" duration-ms="77">
+    <groups>
+    </groups>
+    <test started-at="2024-10-24T10:21:20 IST" name="Default test" finished-at="2024-10-24T10:21:20 IST" duration-ms="77">
+      <class name="newProgs.ChildClass">
+        <test-method is-config="true" signature="beforerun()[pri:0, instance:newProgs.ChildClass@327514f]" started-at="2024-10-24T10:21:20 IST" name="beforerun" finished-at="2024-10-24T10:21:20 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforerun -->
+        <test-method signature="testRun()[pri:0, instance:newProgs.ChildClass@327514f]" started-at="2024-10-24T10:21:20 IST" name="testRun" finished-at="2024-10-24T10:21:20 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRun -->
+        <test-method is-config="true" signature="afterrun()[pri:0, instance:newProgs.ChildClass@327514f]" started-at="2024-10-24T10:21:20 IST" name="afterrun" finished-at="2024-10-24T10:21:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterrun -->
+      </class> <!-- newProgs.ChildClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
